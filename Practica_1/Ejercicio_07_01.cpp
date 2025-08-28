@@ -2,7 +2,7 @@
 // Autor: Noel Fernando Condori Quispe
 // Carnet: 12392811
 // Carrera del estudiante:Ingenieria de Sistemas
-//Fecha de creacion:25/08/2025
+//Fecha de creacion:26/08/2025
 // Numero de ejercicio 7
 #include <iostream>
 using namespace std;
